@@ -97,10 +97,6 @@
 .task-actions {  background: rgba(231, 63, 63, 0.14);
   color: #8b1c1c;
 }
-  display: flex;
-  gap: 10px;
-  justify-content: flex-end;
-}
 
 .task-cell.actions-cell {
   justify-self: end;
