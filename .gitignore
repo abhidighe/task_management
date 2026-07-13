@@ -1,0 +1,22 @@
+# Node dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+**/dist-ssr/
+
+# Environment files
+.env
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite / frontend
+**/.vite/
+
+# Optional npm cache
+.npm/
+
+# Ignore build artifacts if created in root
+build/
