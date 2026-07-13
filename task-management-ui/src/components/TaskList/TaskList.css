@@ -85,7 +85,9 @@
 }
 
 .priority-pill.high {
-
+  background: rgba(231, 63, 63, 0.14);
+  color: #8b1c1c;
+}
 
 .updated-cell,
 .actions-cell {
